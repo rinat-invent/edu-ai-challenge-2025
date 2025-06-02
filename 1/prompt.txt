@@ -1,0 +1,13 @@
+You are tasked with selecting the most suitable database for a new social platform application. The application has the following requirements:
+
+- It is a social platform with millions of users.
+- It needs to store user profiles, posts, and connections (relationships) between users.
+- High data read speed is required.
+- The expected operation split is 80% read operations and 20% write operations.
+- Scalability is important as the user base is expected to grow.
+
+Your task is to analyze these requirements and justify the selection of the most appropriate type of database for this project. Use Chain-of-Thought (CoT) reasoning to break down your analysis into clear, logical steps. Ensure that your reasoning addresses each requirement and explains how the chosen database type meets those needs. Provide a step-by-step explanation of your thought process, leading to a final database selection.
+
+Remember to consider different database types (e.g., relational, NoSQL document, NoSQL key-value, NoSQL column-family, graph, multi-model) and evaluate their strengths and weaknesses in the context of the given requirements.
+
+End your response with a clear statement of the selected database type.
