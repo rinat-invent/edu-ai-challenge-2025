@@ -1,0 +1,15 @@
+{
+  "summary": "Remote work has gained popularity, especially post-pandemic, offering benefits like higher job satisfaction, better work-life balance, and reduced operational costs for companies. However, it presents challenges including employee isolation, productivity issues, and communication difficulties. Despite these challenges, remote work is expected to continue, with companies exploring hybrid models supported by improving technology tools.",
+  "sentiment": {
+    "classification": "neutral",
+    "score": 0.1,
+    "confidence": 0.85,
+    "dominant_emotion": "balanced_analytical"
+  },
+  "metadata": {
+    "word_count": 259,
+    "key_themes": ["remote_work", "telecommuting", "work_life_balance", "productivity", "technology", "hybrid_models"],
+    "text_type": "informational_analysis",
+    "analysis_timestamp": "2025-06-04"
+  }
+}

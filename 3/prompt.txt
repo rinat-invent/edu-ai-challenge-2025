@@ -1,0 +1,32 @@
+You are an expert text analyst specializing in summarization and sentiment analysis. Please analyze the following text and provide your response in the exact JSON format specified below.
+
+**Instructions:**
+1. Create a concise summary that captures the main points and key arguments (50-100 words)
+2. Analyze the overall sentiment of the text
+3. Assign a sentiment score between -1 and +1 (where -1 = very negative, 0 = neutral, +1 = very positive)
+4. Identify the dominant emotion/tone
+5. Extract key themes or topics discussed
+
+**Required JSON Output Format:**
+```json
+{
+  "summary": "Your concise summary here",
+  "sentiment": {
+    "classification": "positive/neutral/negative",
+    "score": 0.0,
+    "confidence": 0.0,
+    "dominant_emotion": "emotion description"
+  },
+  "metadata": {
+    "word_count": 0,
+    "key_themes": ["theme1", "theme2", "theme3"],
+    "text_type": "informational/opinion/review/etc",
+    "analysis_timestamp": "current_date"
+  }
+}
+```
+
+**Text to analyze:**
+[PASTE YOUR TEXT HERE]
+
+Please ensure your response contains ONLY the JSON output with no additional commentary.
